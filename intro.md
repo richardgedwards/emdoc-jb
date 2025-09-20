@@ -1,6 +1,6 @@
 # Welcome to Electromagnetism Documentation
 
-This book provides a comprehensive overview of the fundamental principles of electromagnetism. It is designed for students, researchers, and engineers who want to deepen their understanding of this fascinating field.
+The intent of this project is to document electromagnetic theory with a consistent notation. This will be used to develop and explore computational electromagnetic algorithms for solving Maxwell's equations, both analytically and numerically.
 
 ## Who is this book for?
 
