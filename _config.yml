@@ -22,7 +22,7 @@ bibtex_bibfiles:
 
 # Information about where the book exists on the web
 repository:
-  url: https://github.com/your-username/your-repo-name  # <-- PLEASE UPDATE
+  url: https://github.com/richardgedwards/emdoc-jb  # Online location of your book
   path_to_book: jb  # Assuming 'jb' is the path to your book in the repo
   branch: main  # Default branch is now 'main' on GitHub
 
